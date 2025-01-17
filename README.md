@@ -1,4 +1,4 @@
-##Projeto Planilha Financeira com Insights de IA
+## Projeto Planilha Financeira com Insights de IA
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp | CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 > 
